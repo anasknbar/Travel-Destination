@@ -1,3 +1,48 @@
+# Lab16:
+## overview:
+- in this Lab we start building a new project, Travel-Destination, using React Library.
+- React Library is a front end tool that introduced in 2013 by Facebook.
+- it makes the UI building process more productive and easy comparing to use Vinalia js.
+- the main Isea of React is to build what is called a 'Components', these components can be reused/called many times
+as they are created as function.
+- In react we use JSX language, which is a mix of JS and HTML.
+- JSX give us the ability to write HTML and JS in the Js file at the same time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

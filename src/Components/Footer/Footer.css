@@ -1,0 +1,12 @@
+.footer-list{
+  padding: 50px;
+  width: 50%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+li{
+  list-style-type: none;
+  color: gray;
+}
