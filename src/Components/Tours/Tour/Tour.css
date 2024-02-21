@@ -4,6 +4,8 @@
 .container{
   padding: 40px;
   display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 .data-card{
   position: relative;
@@ -34,4 +36,11 @@ span p{
   font-weight: 500;
 }
 
+.card--link-css{
+  text-decoration: none;
+  color: inherit;
+}
 
+.city-img{
+  border-radius: 5px;
+}

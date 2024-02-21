@@ -1,0 +1,26 @@
+.hero-photo{
+  width: 50%;
+  margin: 50px auto;
+ 
+}
+
+.hero-photo img{
+  width: 100%;
+}
+
+.hero-p{
+  
+  margin: 0 0 50px 50px;
+  
+}
+.hero-p :first-child{
+  letter-spacing: 1.5px;
+  width: 50%;
+  font-size: 36px;
+  font-weight: 600;
+}
+.hero-p :last-child{
+  width: 25%;
+  font-size: 16px;
+  font-weight: 300;
+}

@@ -1,12 +1,37 @@
 .footer-list{
-  padding: 50px;
+  height: fit-content;
+
+  
+  /* padding: 50px; */
   width: 50%;
-  margin: auto;
+  margin: 100px auto 20px;
   display: flex;
   justify-content: space-between;
 }
 
-li{
-  list-style-type: none;
+.fa-twitter,.fa-facebook,.fa-instagram{
+  font-size: 30px;
+  margin: 0;
   color: gray;
+  cursor: pointer;
+  padding: 8px;
+  border-radius: 50%;
+  transition: 0.15s;
+}
+.fa-facebook:hover,.fa-twitter:hover{
+  background-color: rgb(127, 127, 233);
+  color: white;
+  transition: 0.15s;
+
+}
+.fa-instagram:hover{
+  background: linear-gradient(to right, #ff8a00, #e52e71);
+  transition: 0.15s;
+  color: whitesmoke;
+
+}
+
+small{
+  background-color: rgb(213, 202, 224);
+  margin-left: auto;
 }
