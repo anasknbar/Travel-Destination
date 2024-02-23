@@ -6,7 +6,7 @@ function Header() {
       <nav className="navbar">
        
         <h1 className="logo">airGo</h1>
-        <Link to="/home" className="home--css">Home</Link>
+        <Link to="/" className="home--css">Home</Link>
         
       </nav>
     </>

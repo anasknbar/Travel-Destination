@@ -9,7 +9,7 @@ import Header from './Components/Header/Header';
 const App = () => {
   return (
     <Routes>
-      <Route path='/home' element={<Home/>}> </Route>
+      <Route path='/' element={<Home/>}> </Route>
       <Route path="/city/:id" element={<TourDetail/>} />
       <Route path="/TourDetail/:id" element={<TourDetail/>} />
 
